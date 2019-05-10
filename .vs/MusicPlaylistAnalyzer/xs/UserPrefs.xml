@@ -1,8 +1,25 @@
 ﻿<Properties StartupConfiguration="{3831B79F-4FD8-40ED-B994-F06AE6F28C31}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="35" Column="39" />
+      <File FileName="Program.cs" Line="65" Column="29" />
+      <File FileName="MusicLoader.cs" Line="35" Column="65" />
+      <File FileName="MusicPlaylist.cs" Line="7" Column="28" />
+      <File FileName="Questions.cs" Line="19" Column="14" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MusicPlaylistAnalyzer" expanded="True">
+            <Node name="MusicPlaylistAnalyzer" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.MusicPlaylistAnalyzer PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
