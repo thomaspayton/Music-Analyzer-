@@ -1,37 +1,3 @@
-﻿/*using System;
-using System.IO;
-
-namespace MusicPlaylistAnalyzer
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            string fileName = @"SampleMusicPlaylist.txt";
-
-            string fullPath = Path.Combine(Directory.GetCurrentDirectory(), fileName);
-
-            Console.WriteLine("File name: {0}", fullPath);
-
-            Console.Write("How many songs received 200 or more plays?");
-
-            var lines = File.ReadAllLines("SampleMusicPlaylist.txt");
-
-            for (int i = 200; i < lines.Length; i++)
-            {
-                var fields = lines[i].Split(',');
-            }
-
-            for (int j = 0; j < 40; j++)
-            {
-                for (int k = 0; k < 30; k++)
-                {
-                    Console.WriteLine(lines[j][k]);
-                }
-            }
-        }
-
-*/
 using System;
 using System.Collections.Generic;
 using System.Linq;
